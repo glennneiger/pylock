@@ -22,9 +22,9 @@ apt update && apt install git python python2 -y && git clone https://github.com/
 ```
 
 ### Usage :
-#### [+] If you use 'Option [01]' 'Encrypt Python' then you will find your encrypted file in the "__pycache__" Directory.
-#### [+] If you use 'Option [02]' 'Encrypt Python2' then you will find your encrypted file in the current Directory.
-#### [+] Convert the encrypted file (.pyc)/(.pyo) to (.py) by typing `mv [encrypted.pyc] [example.py]`.
+#### [+] If you use 'Option [01]' 'Encrypt Python' then you must have to input a python file.
+#### [+] If you use 'Option [02]' 'Encrypt Python2' then you must have to input a python2 file.
+#### [+]You will find The encrypted file on repo's home dir.
 #### [+] Always keep a Backup Because it can't be Decrypted .
 
 ## [+] Find Me on :
