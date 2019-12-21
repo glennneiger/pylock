@@ -3,7 +3,7 @@
 ### [+] Disclaimer :
 ***Pylock is a tool to Encrypt Python Scripts into an Unreadble Format.This Tool is created for Educational Purpose only.I am not responsible for any misuse of this tool.***
 
-<img src="https://i.ibb.co/yhzfKKg/pylock.jpg" alt="" border="0" />
+<img src="https://i.ibb.co/9p5c0ZM/pylock.jpg" alt="" border="0" />
 
 ### [+] Installation
 ```apt update```
